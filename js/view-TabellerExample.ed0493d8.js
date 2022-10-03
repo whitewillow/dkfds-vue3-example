@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkexample"]=self["webpackChunkexample"]||[]).push([[8011],{89:function(n,e){e.Z=(n,e)=>{const t=n.__vccOpts||n;for(const[c,r]of e)t[c]=r;return t}},5709:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var c=t(3396);const r=(0,c._)("h2",{class:"mt-0"},"Tabeller",-1),s=[r];function u(n,e){return(0,c.wg)(),(0,c.iD)("section",null,s)}var o=t(89);const a={},l=(0,o.Z)(a,[["render",u]]);var f=l}}]);
-//# sourceMappingURL=view-TabellerExample.ed0493d8.js.map
