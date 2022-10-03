@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkexample"]=self["webpackChunkexample"]||[]).push([[6188],{89:function(t,n){n.Z=(t,n)=>{const e=t.__vccOpts||t;for(const[c,s]of n)e[c]=s;return e}},5531:function(t,n,e){e.r(n),e.d(n,{default:function(){return l}});var c=e(3396);function s(t,n){const e=(0,c.up)("fds-tooltip");return(0,c.wg)(),(0,c.iD)("section",null,[(0,c.Wm)(e,{class:"ml-2",text:"Hjælpende <b>tekst</b>"})])}var r=e(89);const u={},o=(0,r.Z)(u,[["render",s]]);var l=o}}]);
+//# sourceMappingURL=view-TooltipExample.d6523763.js.map
