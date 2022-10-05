@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkexample"]=self["webpackChunkexample"]||[]).push([[3567],{256:function(n,e,l){l.r(e),l.d(e,{default:function(){return s}});var t=l(3396);const u=(0,t._)("br",null,null,-1),a=(0,t.Uk)(" Egen tekst ");var c=(0,t.aZ)({__name:"TilbageExample",setup(n){const e=()=>window.confirm("KLIK");return(n,l)=>{const c=(0,t.up)("fds-tilbage-link");return(0,t.wg)(),(0,t.iD)("section",null,[(0,t.Wm)(c,{onClick:e}),u,(0,t.Wm)(c,{onClick:e},{default:(0,t.w5)((()=>[a])),_:1})])}}});const r=c;var s=r}}]);
-//# sourceMappingURL=view-TilbageExample.26272ba9.js.map
