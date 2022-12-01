@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkexample"]=self["webpackChunkexample"]||[]).push([[4813],{1825:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var r=t(3396);const a=(0,r.Uk)(" Dette komponent kommer snart ");function u(e,n){const t=(0,r.up)("fds-alert");return(0,r.wg)(),(0,r.iD)("section",null,[(0,r.Wm)(t,{variant:"info",header:"Under udvikling",closeable:""},{default:(0,r.w5)((()=>[a])),_:1})])}var l=t(89);const o={},s=(0,l.Z)(o,[["render",u]]);var c=s}}]);
-//# sourceMappingURL=view-FootersExample.7c535421.js.map
