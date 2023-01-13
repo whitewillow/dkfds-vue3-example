@@ -1,0 +1,8 @@
+import{e as u,o as f,c as i,b as l,w as s,a as e,d as n,r as t}from"./index.59297fa2.js";const _=e("table",{class:"table table--compact"},[e("thead",null,[e("tr",null,[e("th",null,"Props"),e("th",null,"Type"),e("th",null,"Default"),e("th",null,"Beskrivelse")])]),e("tbody",null,[e("tr",null,[e("td",null,[e("code",null,"size")]),e("td",null,[e("code",null,"'small' | 'large'")]),e("td",null,[e("code",null,"large")]),e("td")]),e("tr",null,[e("td",null,[e("code",null,"variant")]),e("td",null,[e("code",null,"'success' | 'info' | 'warning' | 'error'")]),e("td",null,[e("code",null,"null")]),e("td")])])],-1),v=u({__name:"BadgesExample",setup(m){const r=`
+<fds-badge class="mr-4"> Normal </fds-badge>
+<fds-badge size="small"> Normal small </fds-badge>
+<fds-badge variant="success"> success </fds-badge>
+<fds-badge variant="info"> success </fds-badge>
+<fds-badge variant="warning"> warning </fds-badge>
+<fds-badge variant="error"> error </fds-badge>
+`;return(p,g)=>{const a=t("fds-badge"),d=t("fds-preview-item"),o=t("fds-preview-code"),c=t("fds-preview");return f(),i("section",null,[l(c,{header:"Eksempel",href:"https://designsystem.dk/komponenter/badges/"},{default:s(()=>[l(d,null,{default:s(()=>[e("p",null,[l(a,{class:"mr-4"},{default:s(()=>[n(" Normal ")]),_:1}),l(a,{size:"small"},{default:s(()=>[n(" small ")]),_:1})]),e("p",null,[l(a,{class:"mr-4",variant:"success"},{default:s(()=>[n(" success ")]),_:1}),l(a,{class:"mx-4",variant:"info"},{default:s(()=>[n(" success ")]),_:1}),l(a,{class:"mx-4",variant:"warning"},{default:s(()=>[n(" warning ")]),_:1}),l(a,{class:"mx-4",variant:"error"},{default:s(()=>[n(" error ")]),_:1})])]),_:1}),l(o,null,{default:s(()=>[e("pre",{textContent:r})]),_:1}),l(d,null,{default:s(()=>[_]),_:1})]),_:1})])}}});export{v as default};

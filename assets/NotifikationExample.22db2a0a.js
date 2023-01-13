@@ -1,0 +1,1 @@
+import{_ as t,o,c as n,b as a,w as r,d as s,r as c}from"./index.59297fa2.js";const l={};function _(d,i){const e=c("fds-alert");return o(),n("section",null,[a(e,{variant:"info",header:"Under udvikling",closeable:""},{default:r(()=>[s(" Dette komponent kommer snart ")]),_:1})])}const m=t(l,[["render",_]]);export{m as default};
