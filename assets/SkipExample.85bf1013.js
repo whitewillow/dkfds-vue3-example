@@ -1,3 +1,0 @@
-import{e as c,o as r,c as d,b as e,w as t,a as s,r as n}from"./index.59297fa2.js";const l=s("a",{href:"#main-content",class:"skipnav",style:{position:"relative",top:"inherit"}},"G\xE5 til sidens indhold",-1),k=c({__name:"SkipExample",setup(_){const o=`
-  <a href="#main-content" class="skipnav">G\xE5 til sidens indhold</a>
-`;return(m,f)=>{const i=n("fds-preview-code"),a=n("fds-preview-item"),p=n("fds-preview");return r(),d("section",null,[e(p,{header:"Eksempel",href:"https://designsystem.dk/komponenter/skip-link/"},{default:t(()=>[e(a,null,{default:t(()=>[l,e(i,null,{default:t(()=>[s("pre",{textContent:o})]),_:1})]),_:1})]),_:1})])}}});export{k as default};
