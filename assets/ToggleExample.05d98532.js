@@ -1,0 +1,3 @@
+import{e as f,f as i,o as u,c as g,b as e,w as s,a as l,r as o}from"./index.69a80062.js";const k=f({__name:"ToggleExample",setup(w){const t=i(!1),d=`
+<fds-toggle-switch v-model="toggleswitch" />
+`;return(v,n)=>{const a=o("fds-toggle-switch"),c=o("fds-pre"),p=o("fds-preview-item"),r=o("fds-preview-code"),_=o("fds-preview");return u(),g("section",null,[e(_,{header:"Eksempel",href:"https://designsystem.dk/komponenter/toggle/"},{default:s(()=>[e(p,null,{default:s(()=>[e(a,{modelValue:t.value,"onUpdate:modelValue":n[0]||(n[0]=m=>t.value=m)},null,8,["modelValue"]),l("div",null,[e(c,{header:"v-model",json:{toggleswitch:t.value}},null,8,["json"])])]),_:1}),e(r,null,{default:s(()=>[l("pre",{textContent:d})]),_:1})]),_:1})])}}});export{k as default};

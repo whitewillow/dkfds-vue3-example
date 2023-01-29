@@ -1,0 +1,5 @@
+import{e as p,o as r,c as u,b as n,w as t,a as e,d as s,r as o}from"./index.69a80062.js";const _=e("table",{class:"table table--compact"},[e("thead",null,[e("tr",null,[e("th",null,"Props"),e("th",null,"Type"),e("th",null,"Default"),e("th",null,"Beskrivelse")])]),e("tbody",null,[e("tr",null,[e("td",null,[e("code",null,"icon")]),e("td",null,[e("code",null,"string")]),e("td"),e("td")])])],-1),v=p({__name:"IkonExample",setup(f){const c=`
+<p><fds-ikon icon="home" /> Hjem</p>
+<p><fds-ikon icon="search" /> S\xF8g</p>
+<p><fds-ikon icon="visibility" /> Vis</p>
+`;return(m,h)=>{const l=o("fds-ikon"),i=o("fds-preview-item"),d=o("fds-preview-code"),a=o("fds-preview");return r(),u("section",null,[n(a,{header:"Eksempel",href:"https://designsystem.dk/design/ikoner/"},{default:t(()=>[n(i,null,{default:t(()=>[e("p",null,[n(l,{icon:"home"}),s(" Hjem")]),e("p",null,[n(l,{icon:"search"}),s(" S\xF8g")]),e("p",null,[n(l,{icon:"visibility"}),s(" Vis")])]),_:1}),n(d,null,{default:t(()=>[e("pre",{textContent:c})]),_:1}),n(i,null,{default:t(()=>[_]),_:1})]),_:1})])}}});export{v as default};
